@@ -1,5 +1,8 @@
-
 # 👩‍💻 Débora Cecília
+
+![Profile views](https://komarev.com/ghpvc/?username=deboracecilia\&color=blue)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
 
 🎯 **Analista de Dados | Engenharia de Alimentos | Dados & Melhoria Contínua**
 
@@ -21,12 +24,29 @@ Hoje, estou em transição e consolidação na área de **Dados**, unindo minha 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-* **Linguagens:** Python 🐍
-* **Banco de Dados:** SQL
-* **BI & Visualização:** Power BI
-* **Modelagem de Dados:** Power Designer
-* **ETL:** Processos de extração, transformação e carga de dados
-* **Outros:** Excel avançado, melhoria contínua (PDCA, MASP, 5S)
+### 💻 Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+### ⚙️ Ferramentas & Conceitos
+
+* Modelagem de Dados (Power Designer)
+* ETL (Extração, Transformação e Carga de Dados)
+* Dashboards e Indicadores
+* Melhoria Contínua (PDCA, MASP, 5S)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Débora GitHub stats](https://github-readme-stats.vercel.app/api?username=deboracecilia\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deboracecilia\&layout=compact\&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=deboracecilia\&theme=radical)
 
 ---
 
@@ -44,6 +64,7 @@ Hoje, estou em transição e consolidação na área de **Dados**, unindo minha 
 ## 📂 Projetos em destaque
 
 🔹 Em breve… (adicione aqui seus projetos!)
+
 Sugestões do que incluir:
 
 * Dashboard de indicadores (Power BI)
@@ -56,11 +77,8 @@ Sugestões do que incluir:
 ## 📫 Contato
 
 * 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/debora-cecilia/)
-* 📧 Email: deboraeng.alimento@gmail.com    
+* 📧 Email: [deboraeng.alimento@gmail.com](mailto:deboraeng.alimento@gmail.com)
 
 ---
 
 ✨ *"Transformando dados em decisões inteligentes."*
-
----
-
