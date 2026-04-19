@@ -53,16 +53,10 @@ Sugestões do que incluir:
 
 ---
 
-## 🎯 Objetivo
-
-Atuar como **Analista de Dados**, contribuindo com análises estratégicas, automação de processos e geração de valor através dos dados.
-
----
-
 ## 📫 Contato
 
-* 💼 LinkedIn: (adicione aqui)
-* 📧 Email: (adicione aqui)
+* 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/debora-cecilia/)
+* 📧 Email: deboraeng.alimento@gmail.com    
 
 ---
 
