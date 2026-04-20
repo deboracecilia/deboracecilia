@@ -61,14 +61,7 @@ Hoje, estou em transição e consolidação na área de **Dados**, unindo minha 
 
 ## 📂 Projetos em destaque
 
-🔹 Em breve… (adicione aqui seus projetos!)
-
-Sugestões do que incluir:
-
-* Dashboard de indicadores (Power BI)
-* Análise de dados com Python
-* Pipeline ETL
-* Projeto com IA (previsão, classificação, etc.)
+🔹 Em breve… 
 
 ---
 
@@ -76,6 +69,7 @@ Sugestões do que incluir:
 
 * 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/debora-cecilia/)
 * 📧 Email: [deboraeng.alimento@gmail.com](mailto:deboraeng.alimento@gmail.com)
+* 📱 Telefone : (11) 977821797
 
 ---
 
