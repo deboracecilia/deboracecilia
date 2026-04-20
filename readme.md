@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=deboracecilia\&color=blue)
 
-🎯 **Analista de Dados | Engenharia de Alimentos | Dados & Melhoria Contínua**
+🎯 **Engenharia de Alimentos | Dados | Melhoria Contínua**
 
 Olá! Eu sou a Débora, tenho 24 anos e sou formada em Engenharia de Alimentos pela UNESP de São José do Rio Preto. Ao longo da minha trajetória, descobri minha paixão por transformar dados em insights estratégicos e apoiar decisões com base em informação de qualidade.
 
