@@ -1,6 +1,6 @@
 # 👩‍💻 Débora Cecília
 
-![Profile views](https://komarev.com/ghpvc/?username=deboracecilia\&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=deboracecilia&color=blue)
 
 🎯 **Engenharia de Alimentos | Dados | Melhoria Contínua**
 
@@ -24,10 +24,11 @@ Hoje, estou em transição e consolidação na área de **Dados**, unindo minha 
 
 ### 💻 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### ⚙️ Ferramentas & Conceitos
 
@@ -40,28 +41,40 @@ Hoje, estou em transição e consolidação na área de **Dados**, unindo minha 
 
 ## 📊 Estatísticas do GitHub
 
-![Débora GitHub stats](https://github-readme-stats.vercel.app/api?username=deboracecilia\&show_icons=true\&theme=radical)
+![Débora GitHub stats](https://github-readme-stats.vercel.app/api?username=deboracecilia&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deboracecilia\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deboracecilia&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=deboracecilia\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=deboracecilia&theme=radical)
 
 ---
 
 ## 📊 O que eu faço
 
-✔️ Criação de dashboards interativos e indicadores
-✔️ Automação de relatórios e análises
-✔️ Tratamento e transformação de dados (ETL)
-✔️ Modelagem de dados para suporte à decisão
-✔️ Análise exploratória e geração de insights
-✔️ Aplicação de IA para análise e otimização de processos
+✔️ Criação de dashboards interativos e indicadores  
+✔️ Automação de relatórios e análises  
+✔️ Tratamento e transformação de dados (ETL)  
+✔️ Modelagem de dados para suporte à decisão  
+✔️ Análise exploratória e geração de insights  
+✔️ Aplicação de IA para análise e otimização de processos  
 
 ---
 
 ## 📂 Projetos em destaque
 
-🔹 Em breve… 
+### 🛒 Sistema de Lista de Compras em Python
+
+Projeto desenvolvido para praticar conceitos fundamentais de programação e manipulação de dados utilizando Python.
+
+🔹 Funcionalidades:
+* Cadastro de produtos
+* Manipulação de listas
+* Salvamento em CSV
+* Tratamento de erros
+* Interface simples no terminal
+
+🔗 Repositório:  
+<https://github.com/deboracecilia/lista_compras>
 
 ---
 
@@ -69,7 +82,7 @@ Hoje, estou em transição e consolidação na área de **Dados**, unindo minha 
 
 * 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/debora-cecilia/)
 * 📧 Email: [deboraeng.alimento@gmail.com](mailto:deboraeng.alimento@gmail.com)
-* 📱 Telefone : (11) 977821797
+* 📱 Telefone : (11) 97782-1797
 
 ---
 
