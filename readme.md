@@ -73,9 +73,6 @@ Projeto desenvolvido para praticar conceitos fundamentais de programação e man
 * Tratamento de erros
 * Interface simples no terminal
 
-🔗 Repositório:  
-<https://github.com/deboracecilia/lista_compras>
-
 ---
 
 ## 📫 Contato
